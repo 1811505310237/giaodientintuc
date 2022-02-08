@@ -1,0 +1,58 @@
+.align-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+
+nav.show {
+    display: block !important;
+}
+.container{
+    max-width: 1155px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-20{
+    font-size: 20px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-12{
+    font-size: 12px;
+}
+.bg-xanh{
+    background-color: #01a050;
+}
+
+.text-center{
+    text-align: center;
+}
+.bd-right{
+    border-right: 1px solid #e3e3e3;
+}
+
+div#wp-content .col-md-9 {
+    /* padding-right: 0 !important; */
+    max-width: 848px;
+}
+.line-24{
+    line-height: 30px;
+}
+.text-justify{
+    text-align: justify;
+}
+.text-black{
+    color: #000 !important;
+}
+.weight600{
+    font-weight: 600;
+}
+.mb-7{
+    margin-bottom: 7px;
+}
